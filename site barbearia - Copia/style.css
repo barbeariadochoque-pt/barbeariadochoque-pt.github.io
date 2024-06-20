@@ -1,5 +1,6 @@
 
 /*  Estilo Geral */
+
 *{
     margin: 0;
     padding: 0;
@@ -355,7 +356,7 @@ form{
     color:#fff;
     font-size: 30px;
  }
-
+ 
 
  @media screen and (max-width:1187px){
     /* CLASSES GERAIS */
@@ -385,8 +386,5 @@ form{
         
     }
 
- 
-
-    
 }
  
